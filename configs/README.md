@@ -8,7 +8,7 @@ This folder contains configuration files for the network devices used in this la
 |----------------------|----------------------------------|
 | `running-config.xml` | Configuration for Palo Alto FW.  |
 |   `ISP2config.boot`  | Configuration for vyos Router 2. |
-|   `ISP1config.boot`  | Configuration for vyos Router 2. |
+|   `ISP1config.boot`  | Configuration for vyos Router 1. |
 
 ## Purpose
 
