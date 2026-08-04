@@ -384,7 +384,7 @@ By combining static route preference with Path Monitoring, Palo Alto firewalls c
 
 **Mahmoud Obaid**
 
-Telecommunication Technology Engineer  
+Communication Technology Engineer  
 Senior IT Analyst
 
 This project was created as a practical network security lab demonstrating enterprise-style Internet redundancy and automatic failover using:
